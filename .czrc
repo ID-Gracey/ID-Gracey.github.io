@@ -1,0 +1,45 @@
+{
+  "path": "cz-conventional-changelog",
+  "types": {
+    "feat": {
+      "description": "新功能",
+      "title": "Features",
+      "emoji": "✨"
+    },
+    "template": {
+      "description": "一个新的模板",
+      "title": "Templates",
+      "emoji": "🏠"
+    },
+    "fix": {
+      "description": "修复BUG",
+      "title": "Bug Fixes",
+      "emoji": "✨"
+    },
+    "perf": {
+      "description": "现有功能升级，优化体验等",
+      "title": "Performance Improvements",
+      "emoji": "🚀"
+    },
+    "project": {
+      "description": "项目管理，维护等",
+      "title": "Projects",
+      "emoji": "🛠"
+    },
+    "docs": {
+      "description": "文档、内容管理",
+      "title": "Documentation",
+      "emoji": "📚"
+    },
+    "theme": {
+      "description": "一个新的主题配色",
+      "title": "Theme",
+      "emoji": "👁"
+    },
+    "chore": {
+      "description": "其他一些修改",
+      "title": "Chores",
+      "emoji": "♻️"
+    }
+  }
+}
